@@ -12,12 +12,12 @@ This tool leverages the requests, BeautifulSoup, and os libraries to extract ima
 
 
 ### Script Overview
-#### 1.app.py
+#### 1)app.py
 
   his script does the following:
 
-  1.Extracts image URLs from a webpage using BeautifulSoup.
+     1.Extracts image URLs from a webpage using BeautifulSoup.
   
-  2.Downloads images from the extracted URLs and saves them locally.
+     2.Downloads images from the extracted URLs and saves them locally.
   
-  3.Handles errors such as missing images or connection issues.
+     3.Handles errors such as missing images or connection issues.
