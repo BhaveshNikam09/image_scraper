@@ -21,3 +21,14 @@ This tool leverages the requests, BeautifulSoup, and os libraries to extract ima
      2.Downloads images from the extracted URLs and saves them locally.
   
      3.Handles errors such as missing images or connection issues.
+
+
+### Requirements
+
+    1.Python 3.x
+
+    2.requests: To fetch webpage content.
+
+    3.BeautifulSoup4: To parse HTML and extract image URLs.
+
+    4.os: For handling local file paths.
